@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **YexuanXiao/YexuanXiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=YexuanXiao&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=YexuanXiao&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+
+﻿Hi there, I'm YexuanXiao.
+ 
+ My life is about coding, reading and writing. I like music, movie, comic and anime.
+ My research interested in multi-paradigm programming languages and system programming.
+ I use C, C++, C# and currently learning TypeScript and Rust.
+ I love open source and glad to contribute to open source and public projects.

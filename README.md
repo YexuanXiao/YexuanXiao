@@ -8,14 +8,9 @@ I have a strong love for open source and am always excited to contribute to open
 
 In addition to what pin has showcased, I have also written the following software:
 
-[deque](https://github.com/YexuanXiao/deque) - An efficient deque container that accurately conforms to the C++ standard
-
-[rfc4648-base64](https://github.com/YexuanXiao/rfc4648-base64) - A base64 utility library written using C++ algorithm style
-
-[rfc4648-afo](https://github.com/YexuanXiao/rfc4648-afo) - A base64 utility library written using C++ ranges algorithm style
-
-[win32lib](https://github.com/YexuanXiao/win32lib) - A Win32 wrapper library that follows C++ best practices
-
-[aent](https://github.com/YexuanXiao/aent) - A Windows tool that alerts you through various means when an application crashes
-
+[deque](https://github.com/YexuanXiao/deque) - An efficient deque container that accurately conforms to the C++ standard<br>
+[rfc4648-base64](https://github.com/YexuanXiao/rfc4648-base64) - A base64 utility library written using C++ algorithm style<br>
+[rfc4648-afo](https://github.com/YexuanXiao/rfc4648-afo) - A base64 utility library written using C++ ranges algorithm style<br>
+[win32lib](https://github.com/YexuanXiao/win32lib) - A Win32 wrapper library that follows C++ best practices<br>
+[aent](https://github.com/YexuanXiao/aent) - A Windows tool that alerts you through various means when an application crashes<br>
 [basic_json](https://github.com/YexuanXiao/basic_json) - A highly flexible C++ library designed for in-memory storage of JSON object

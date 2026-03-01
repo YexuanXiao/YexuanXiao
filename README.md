@@ -10,7 +10,7 @@ In addition to what pin has showcased, I have also written the following softwar
 
 [deque](https://github.com/YexuanXiao/deque) - An efficient deque container that accurately conforms to the C++ standard<br>
 [rfc4648-afo](https://github.com/YexuanXiao/rfc4648-afo) - A C++ range algorithm style base64/base32/base16 library<br>
-[ascii-afo](https://github.com/YexuanXiao/ascii-afo) - A C++ range algorithm style ascii library<br>
+[ascii-afo](https://github.com/YexuanXiao/ascii-afo) - A C++ range algorithm style ASCII library<br>
 [win32lib](https://github.com/YexuanXiao/win32lib) - A Win32 wrapper library that follows C++ best practices<br>
 [aent](https://github.com/YexuanXiao/aent) - A Windows tool that alerts you through various means when an application crashes<br>
 [basic_json](https://github.com/YexuanXiao/basic_json) - A highly flexible C++ library designed for in-memory storage of JSON object
